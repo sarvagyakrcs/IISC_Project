@@ -45,3 +45,37 @@
     text-transform: uppercase;
     margin-bottom: 20px;
 }
+
+/* ExtUserAcAdmin.css */
+.quadrant {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.error-box {
+    color: red;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 16px;
+}
+
+th,
+td {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+.view-netgroup-users {
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+}
